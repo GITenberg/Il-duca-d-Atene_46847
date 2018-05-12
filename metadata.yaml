@@ -1,4 +1,8 @@
 _repo: Il-duca-d-Atene_46847
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46847-h/images/cover.jpg
 creator:
   author:
     agent_name: Tommaseo, Niccolò
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37354
     wikipedia: http://en.wikipedia.org/wiki/Niccol%C3%B2_Tommaseo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46847#Il-duca-d-Atene
 gutenberg_bookshelf: IT Romanzi storici
 gutenberg_issued: '2014-09-12'
 gutenberg_type: Text
